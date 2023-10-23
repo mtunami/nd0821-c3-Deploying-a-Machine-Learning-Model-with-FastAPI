@@ -1,0 +1,4 @@
+httpx - INFO - HTTP Request: GET http://testserver/ "HTTP/1.1 200 OK"
+httpx - INFO - HTTP Request: POST http://testserver/inference/ "HTTP/1.1 422 Unprocessable Entity"
+root - WARNING - The sample has 3 features. Must be 14 features
+root - ERROR - Inference cannot be performed on saved model and train data
