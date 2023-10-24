@@ -1,7 +1,7 @@
 # Put the code for your API here.
 """
 Script for FastAPI instance and model inference
-author: Laurent veyssier
+author: Mine Tuna
 Date: Oct. 23th 2023
 """
 

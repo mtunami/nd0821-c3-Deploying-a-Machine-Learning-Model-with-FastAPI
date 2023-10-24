@@ -30,7 +30,7 @@ def test_inference():
     """
     Test model inference output
     """
-    sample =  {  'age':50,
+    sample =  { 'age':50,
                 'workclass':"Private", 
                 'fnlgt':234721,
                 'education':"Doctorate",

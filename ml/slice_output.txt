@@ -92,9 +92,9 @@ native-country,France,8,0.5,0.5,0.5
 native-country,Hungary,3,1.0,0.0,0.0
 native-country,Taiwan,10,0.75,0.75,0.75
 native-country,Greece,7,1.0,1.0,1.0
-native-country,Poland,9,0.0,0.0,0.0
+native-country,Poland,9,0.0,0.0,1.0
 native-country,Outlying-US(Guam-USVI-etc),2,1.0,1.0,1.0
-native-country,Jamaica,26,0.0,0.0,0.0
+native-country,Jamaica,26,0.0,0.0,1.0
 native-country,Haiti,7,1.0,1.0,1.0
 native-country,Guatemala,12,1.0,1.0,1.0
 native-country,Ireland,6,1.0,0.0,0.0

@@ -1,7 +1,7 @@
 """
 Script to post to FastAPI instance for model inference
-author: Laurent veyssier
-Date: Dec. 18th 2022
+author: Mine Tuna
+Date: Oct. 23th 2023
 """
 
 import requests

@@ -1,7 +1,7 @@
 """
 Script to train machine learning model.
-author: Laurent veyssier
-Date: Dec. 16th 2022
+author: Mine Tuna
+Date: Oct. 23th 2023
 """
 
 from sklearn.model_selection import train_test_split
